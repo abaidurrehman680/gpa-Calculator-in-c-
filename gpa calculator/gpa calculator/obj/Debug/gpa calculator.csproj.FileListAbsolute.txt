@@ -1,0 +1,11 @@
+D:\university work\BSCS-2\OOP\CODE\gpa calculator\gpa calculator\bin\Debug\gpa calculator.exe.config
+D:\university work\BSCS-2\OOP\CODE\gpa calculator\gpa calculator\bin\Debug\gpa calculator.exe
+D:\university work\BSCS-2\OOP\CODE\gpa calculator\gpa calculator\bin\Debug\gpa calculator.pdb
+D:\university work\BSCS-2\OOP\CODE\gpa calculator\gpa calculator\obj\Debug\gpa calculator.csproj.AssemblyReference.cache
+D:\university work\BSCS-2\OOP\CODE\gpa calculator\gpa calculator\obj\Debug\gpa calculator.csproj.SuggestedBindingRedirects.cache
+D:\university work\BSCS-2\OOP\CODE\gpa calculator\gpa calculator\obj\Debug\gpa_calculator.Form1.resources
+D:\university work\BSCS-2\OOP\CODE\gpa calculator\gpa calculator\obj\Debug\gpa_calculator.Properties.Resources.resources
+D:\university work\BSCS-2\OOP\CODE\gpa calculator\gpa calculator\obj\Debug\gpa calculator.csproj.GenerateResource.cache
+D:\university work\BSCS-2\OOP\CODE\gpa calculator\gpa calculator\obj\Debug\gpa calculator.csproj.CoreCompileInputs.cache
+D:\university work\BSCS-2\OOP\CODE\gpa calculator\gpa calculator\obj\Debug\gpa calculator.exe
+D:\university work\BSCS-2\OOP\CODE\gpa calculator\gpa calculator\obj\Debug\gpa calculator.pdb

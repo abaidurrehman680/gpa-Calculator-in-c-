@@ -1,0 +1,12 @@
+C:\smester 2\oop\gpa calculator\gpa calculator\bin\Debug\gpa calculator.exe.config
+C:\smester 2\oop\gpa calculator\gpa calculator\bin\Debug\gpa calculator.exe
+C:\smester 2\oop\gpa calculator\gpa calculator\bin\Debug\gpa calculator.pdb
+C:\smester 2\oop\gpa calculator\gpa calculator\obj\Debug\gpa calculator.csproj.AssemblyReference.cache
+C:\smester 2\oop\gpa calculator\gpa calculator\obj\Debug\gpa calculator.csproj.SuggestedBindingRedirects.cache
+C:\smester 2\oop\gpa calculator\gpa calculator\obj\Debug\gpa_calculator.Form1.resources
+C:\smester 2\oop\gpa calculator\gpa calculator\obj\Debug\gpa_calculator.Properties.Resources.resources
+C:\smester 2\oop\gpa calculator\gpa calculator\obj\Debug\gpa calculator.csproj.GenerateResource.cache
+C:\smester 2\oop\gpa calculator\gpa calculator\obj\Debug\gpa calculator.csproj.CoreCompileInputs.cache
+C:\smester 2\oop\gpa calculator\gpa calculator\obj\Debug\gpa calculator.exe
+C:\smester 2\oop\gpa calculator\gpa calculator\obj\Debug\gpa calculator.pdb
+C:\smester 2\oop\gpa calculator\gpa calculator\obj\Debug\gpa_calculator.loading.resources
